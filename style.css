@@ -283,3 +283,8 @@ body {
   color: white;
   text-shadow: 0 0 20px rgb(235, 25, 42);
 }
+.mail_stamp {
+  width: 100px;
+  float: right;
+  border-radius: 50%;
+}
